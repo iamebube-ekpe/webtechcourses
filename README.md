@@ -1,3 +1,3 @@
 # Web Technology Mid Semester:
 
-***Make a product information page
+## Make a product information page
